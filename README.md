@@ -1,2 +1,3 @@
 # Projecttest
-cout <<""<<x;endlk
+cout <<""<<x;endl
+printf<<<<;
